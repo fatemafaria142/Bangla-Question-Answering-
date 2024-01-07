@@ -1,4 +1,4 @@
-# Bangla Reading Comprehension Based Question Answering using T5 and mT5 Models
+# Bangla Reading Comprehension Based Question Answering using BanglaT5 and mT5 Models
 
 This repository contains code and resources for performing Bangla Question Answering using BanglaT5 and mT5 models on the UDDIPOK dataset-a wide-ranging, open-domain Bangla reading comprehension dataset.
 
